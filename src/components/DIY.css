@@ -1,0 +1,27 @@
+.diy {
+    display: flex;
+    justify-content: center;
+    height:100vh;
+    align-items: center;
+    margin-top: 8vh;
+}
+
+.brdrls{
+    padding: 2vh;
+}
+
+.card-body{
+    color: black;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+
+.card-title{
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3vh;
+}
+.card-body button{
+    margin-top: 4vh;
+}
