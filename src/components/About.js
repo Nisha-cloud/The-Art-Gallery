@@ -10,8 +10,8 @@ const About = () => {
                 <div className='nnn'>
                     <h2>About</h2>
                     <span className='line'></span>
-                    <p>Intense is an College level gaming group. Working with Intense gives me the ability to advise intercollege expatriates living in the middle east from where I live in India.</p>
-                    <p>I am Shwetank Kushwaha, a senior advisor for an independently owned gaming planning group called Intense.</p>
+                    <p><h5>Craft makes my life aesthetic from pathetic which motivates me to do the same for you.  The world is not balck and white nor should be your life. Crafttooth adds adds a pop to your monotonous rhythm. Here we are to make your house a home which shines like a chandelier. Your home should be filled up by your tribes and should match your vibe. Suit yourself by choosing the best from our crafttooth. Whether you like it minimal and classy Or a bit boho and massy you will be served with all sort here.</h5></p>
+                    
                     {/* <button className='button'>Explore More</button> */}
                 </div>
             </div>
