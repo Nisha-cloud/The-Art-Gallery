@@ -4,10 +4,17 @@
     height:100vh;
     align-items: center;
     margin-top: 8vh;
+    
+
+}
+.row{
+    /* background-color: red; */
 }
 
-.brdrls{
-    padding: 2vh;
+.col-4{
+    padding: 15vh;
+   
+
 }
 
 .card-body{
@@ -25,3 +32,4 @@
 .card-body button{
     margin-top: 4vh;
 }
+
